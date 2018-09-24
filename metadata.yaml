@@ -1,5 +1,8 @@
 _repo: Historical-record-of-the-Seventh-Regiment-or-The-Royal-Fusiliers-Containing-an-Account-of-the__56220
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56220-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56220#Historical-record-of-the-Seventh-Regiment-or-The-Royal-Fusiliers-Containing-an-Account-of-the_
 gutenberg_issued: '2017-12-21'
 gutenberg_type: Text
 identifiers:
